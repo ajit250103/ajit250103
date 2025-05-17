@@ -1,5 +1,30 @@
 # 💫 About Me:
-👋 Hi there! I'm Ajit Kumar Pal<br>💻 Software Develpment Engineer | Data Analyst | Data Structure and Algorithms | 🚀 Tech Enthusiast <br>👨‍💻 About Me<br>I'm a full-stack developer and data analyst with hands-on experience in building scalable web applications and crafting insightful dashboards. I’m passionate about developing solutions that combine intelligence, automation, and user experience.<br> B.Tech CSE @ VIT Bhopal University, 2025 Graduate<br>Worked on various Full Stack Projects like E-learming, E-commerce, Hospital Website and many mores.<br> ## Tech Stack<br>Languages:<br>JavaScript | TypeScript | Python | Java | SQL<br>Frameworks & Libraries:<br>React.js | Next.js |  Node.js | Express.js | Tailwind CSS<br>Data Analytics Tools:<br>Power BI | Tableau | MySQL | Excel | Spreadsheet Software | Git/GitHub | TensorFlow | Jupyter<br>Notebook | Postman | JIRA<br> Achievements<br>🧠 SIH 2023 Finalist |<br>🔥 Solved 250+ Questions on across coding platform <br>👨‍💼 Tech Lead - Software Development Club @ VIT Bhopal<br>Social Media Lead - Hindi Club @ VIT Bhopal
+
+👋 Hi there! I'm **Ajit Kumar Pal**  
+💻 Software Development Engineer | Data Analyst | Data Structures and Algorithms | 🚀 Tech Enthusiast  
+
+## **About Me**  
+I'm a full-stack developer and data analyst with hands-on experience in building scalable web applications and crafting insightful dashboards. I’m passionate about developing solutions that combine intelligence, automation, and user experience.  
+🎓 B.Tech CSE @ VIT Bhopal University, 2025 Graduate  
+🔧 Worked on various Full Stack Projects like E-learning, E-commerce, Hospital Website, and many more.
+
+## **Tech Stack**  
+
+**Languages:**  
+JavaScript | TypeScript | Python | Java | SQL  
+
+**Frameworks & Libraries:**  
+React.js | Next.js | Node.js | Express.js | Tailwind CSS  
+
+**Data Analytics Tools:**  
+Power BI | Tableau | MySQL | Excel | Spreadsheet Software | Git/GitHub | TensorFlow | Jupyter Notebook | Postman | JIRA  
+
+## 🏆 Achievements  
+🧠 SIH 2023 Finalist  
+🔥 Solved 250+ Questions across coding platforms  
+👨‍💼 Tech Lead – Software Development Club @ VIT Bhopal  
+📢 Social Media Lead – Hindi Club @ VIT Bhopal
+
 
 
 ## 🌐 Socials:
