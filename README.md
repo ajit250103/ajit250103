@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hi there! I'm **Ajit Kumar Pal**  
-💻 Software Development Engineer | Data Analyst | Data Structures and Algorithms | 🚀 Tech Enthusiast  
+💻 Software Development Engineer | Data Analyst | Data Structures and Algorithms |
 
 ## **About Me**  
 I'm a full-stack developer and data analyst with hands-on experience in building scalable web applications and crafting insightful dashboards. I’m passionate about developing solutions that combine intelligence, automation, and user experience.  
