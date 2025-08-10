@@ -5,7 +5,7 @@
 
 ## **About Me**  
 I'm a full-stack developer and data analyst with hands-on experience in building scalable web applications and crafting insightful dashboards. I’m passionate about developing solutions that combine intelligence, automation, and user experience.  
-🎓 B.Tech CSE @ VIT Bhopal University, 2025 Graduate  
+🎓 B.Tech CSE @ VIT Bhopal University, 2025 Passed Out
 🔧 Worked on various Full Stack Projects like E-learning, E-commerce, Hospital Website, and many more.
 
 ## **Tech Stack**  
